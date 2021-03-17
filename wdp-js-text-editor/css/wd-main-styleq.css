@@ -1,0 +1,25 @@
+#c{
+     border:1px solid red;
+     top:22px;
+     left:0px;
+     height: 100%;
+     width: 99%;
+     background-color: blue;
+  /*webkit-transform resizes the canvas and all elements 
+ -webkit-transform : scale(0.3); 
+-webkit-transform-origin : 0 0; 
+  */
+ }
+
+.box {
+  float: left;
+  margin: 1em;
+}
+.after-box {
+  clear: left;
+}
+/*
+#c{
+  display: none;
+}
+*/
